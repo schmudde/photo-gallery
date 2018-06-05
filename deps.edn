@@ -1,2 +1,3 @@
 {:deps {org.clojure/clojurescript {:mvn/version "1.10.238"}
-        hiccup {:mvn/version "2.0.0-alpha1"}}}
+        hiccup {:mvn/version "2.0.0-alpha1"}
+        image-resizer {:mvn/version "0.1.10"}}}
